@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EdHz\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\danip\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EdHz\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\danip\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EdHz\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\danip\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\EdHz\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\EdHz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EdHz\\Desktop\\ContosoUniversity\\ContosoUniversity\\obj\\",
+        "projectPath": "C:\\Users\\danip\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\danip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danip\\Desktop\\ContosoUniversity\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EdHz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

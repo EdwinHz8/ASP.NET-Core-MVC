@@ -1,9 +1,4 @@
 using ContosoUniversity.Data;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
 
 namespace ContosoUniversity
 {
@@ -11,7 +6,7 @@ namespace ContosoUniversity
     {
         public static void Main(string[] args)
         {
-            var host = CreateHostBuilder (args).Build();
+            var host = CreateHostBuilder(args).Build();
 
             CreateDbIfNotExists(host);
 

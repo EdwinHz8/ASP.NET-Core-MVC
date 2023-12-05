@@ -1,8 +1,7 @@
+using System.Diagnostics;
 using ContosoUniversity.Data;
 using ContosoUniversity.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System.Diagnostics;
 
 namespace ContosoUniversity.Controllers
 {
